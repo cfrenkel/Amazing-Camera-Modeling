@@ -1,7 +1,7 @@
 
 # Camera Modeling
 
-## Simulates camera operation in 3D modeling, 
+## Simulates camera operation in 3D modeling
 
 With using a pixels panel, I calculating the meeting point of the ray with the objects. 
 By given the prior knowledge of the objects placement, lighting, and the object material, 
