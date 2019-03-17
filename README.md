@@ -19,6 +19,8 @@ The project dividing to packages and using unit tests throughout the project.
 
 ![SCREESHOT DECSRIPTION](solutions%20image/final%20test3.jpg)
 
+![SCREESHOT DECSRIPTION](solutions%20image/final%20test2.jpg)
+
 ## Libraries:
 
 * java.awt.image.BufferedImage
